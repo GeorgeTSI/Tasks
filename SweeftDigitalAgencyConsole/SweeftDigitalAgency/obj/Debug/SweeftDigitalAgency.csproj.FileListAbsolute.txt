@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\bin\Debug\SweeftDigitalAgency.exe.config
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\bin\Debug\SweeftDigitalAgency.exe
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\bin\Debug\SweeftDigitalAgency.pdb
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\obj\Debug\SweeftDigitalAgency.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\obj\Debug\SweeftDigitalAgency.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\obj\Debug\SweeftDigitalAgency.exe
+C:\Users\User\source\repos\SweeftDigitalAgency\SweeftDigitalAgency\obj\Debug\SweeftDigitalAgency.pdb
